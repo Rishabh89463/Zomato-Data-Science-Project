@@ -1,4 +1,5 @@
 Netflix Movie Data Analysis
+
 Project Overview
 
 This project analyzes Netflix’s movie dataset to uncover insights related to content distribution, genres, release trends, and country-wise production patterns. The objective is to perform exploratory data analysis (EDA) and derive meaningful business insights using Python.
